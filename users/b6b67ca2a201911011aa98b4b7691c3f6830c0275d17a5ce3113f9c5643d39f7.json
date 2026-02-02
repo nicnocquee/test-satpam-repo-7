@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sequenceNumber": 1,
+  "emailHash": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+  "publicKeys": {
+    "ed25519": "nXNVDQAtm7LijFWQ0+ihw4DeuBaX7K14Fx5F2Zeicws=",
+    "x25519": "K2XnOHctC2Lu/5kBv5s5gi/lQ6z51tWL/YFy1IWCS2U="
+  },
+  "encryptedData": {
+    "ephemeralPublicKey": "zr/LsQTLnrCQ0TaLkBUX7vqFXF7ZQ/W027qgHikiknY=",
+    "nonce": "aYBkKWU9giqDy7l3",
+    "ciphertext": "9PoMJyKQDf6hFF8QKT0A+obVa/wxjXxW5pfSeifJ3O5s8tkfECNhYe3Cb39xUqqCz4QuDuBQzRvAyi1kZ4zRZiKuQsV9FxdHq/LzoPOcarCAYtwHqO8p9VGiiJYidxzvAt+LXJEHL6UEU90Q4yd4lDEeo44dg2gEVV7339CRaPEl9FkyWc6VDgwjPFxhZEXkYanmOfxGqWAYxO17KBvTEL+FvZ0ZIs6n1PolAZWfO0exJbEzJ4GIj8o/E9sypiJilXGdWnTlguumVonhQFtApLgq2nvcvEUx0srL2YFd2VzOecoWMWSg"
+  },
+  "verification": {
+    "method": "self-initialized",
+    "verifiedBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+    "verifiedAt": "2026-02-02T08:45:29.155Z",
+    "fingerprint": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+    "packageTimestamp": "2026-02-02T08:45:29.155Z"
+  },
+  "addedBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+  "createdAt": "2026-02-02T08:45:29.155Z"
+}
