@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "sequenceNumber": 1,
+  "sequenceNumber": 2,
   "vaultId": "beafbf27-d12a-4d47-8180-1ce2996be9b2",
   "createdBy": "c99e3cad76a318073f62f5e52eba18913d6f19ce15dc1f40dc12219fc8fbc083",
   "createdAt": "2026-02-02T08:57:33.512Z",
@@ -18,6 +18,16 @@
       "addedBy": "c99e3cad76a318073f62f5e52eba18913d6f19ce15dc1f40dc12219fc8fbc083",
       "addedAt": "2026-02-02T08:57:33.514Z",
       "role": "owner"
+    },
+    "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7": {
+      "encryptedVaultKeys": {
+        "ephemeralPublicKey": "scAAuQKmcY0Hk3HuG8lV5s4f83CJJcTiwipVArCDPGk=",
+        "nonce": "aYBp97VCCU/vGDN6",
+        "ciphertext": "s+gxTpdavEUak2RifI9DE7ivRODnBffDAeL/u4PDUF4JjJRLdMHVP09gzF4Y7bPODZGFOu0Lf/d7drKD3XrIfctZHFiC+Wrih0DhUce2XaGS6F2IbpC5wO/dz9xoqbLFZdfeUtsjGbwbdvYsl6myRxoANMe+RUux3isj5raLL8sTK1Yg/Nr7X809jt0lIqHI"
+      },
+      "addedBy": "c99e3cad76a318073f62f5e52eba18913d6f19ce15dc1f40dc12219fc8fbc083",
+      "addedAt": "2026-02-02T09:10:18.476Z",
+      "role": "member"
     }
   }
 }

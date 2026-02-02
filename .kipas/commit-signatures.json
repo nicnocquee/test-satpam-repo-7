@@ -41,6 +41,12 @@
       "signature": "rRUrQm+Auocl+V/CkBZoSUOmMhgzC/Dm95EJjgdUOIn5JeoJ6fjmxvEAmwqoX68kA47ZgHtnDH17pXYkVcgBDQ==",
       "signedBy": "c99e3cad76a318073f62f5e52eba18913d6f19ce15dc1f40dc12219fc8fbc083",
       "signedAt": "2026-02-02T08:58:09.877Z"
+    },
+    {
+      "hash": "d2af7e4d2ff767ef58260d1ef436cfaa38cdf940",
+      "signature": "WeQXN2kp02E9aFg5IVyvOk2r3suVYlcWlxn/gJOUVS3RlWUTz76tSkqhMwhMBicl6ZMjyiSdfwOl+lb0z0vzAA==",
+      "signedBy": "c99e3cad76a318073f62f5e52eba18913d6f19ce15dc1f40dc12219fc8fbc083",
+      "signedAt": "2026-02-02T09:10:19.023Z"
     }
   ]
 }
