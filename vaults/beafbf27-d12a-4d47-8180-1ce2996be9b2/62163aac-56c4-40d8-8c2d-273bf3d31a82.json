@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "accountId": "62163aac-56c4-40d8-8c2d-273bf3d31a82",
+  "vaultId": "beafbf27-d12a-4d47-8180-1ce2996be9b2",
+  "name": "Stupidly",
+  "tags": [],
+  "encryptedData": {
+    "ephemeralPublicKey": "DinfnZrlK14aHFVh2bUWv89uBVeD0EYajcKJGwq3GiI=",
+    "nonce": "aYBnIfstgZPmrtx5",
+    "ciphertext": "Ql1+ilHIyHpoyLkUB8CIiI5QZ41pj3GdGNIV+0b7ZPPOxZ0086SEwktlvgpXQZZaDJnvR6g4CLBIqFtOY6fUgVO9csuoicT+USoDTQmZeLxNww=="
+  },
+  "createdBy": "c99e3cad76a318073f62f5e52eba18913d6f19ce15dc1f40dc12219fc8fbc083",
+  "createdAt": "2026-02-02T08:58:09.355Z",
+  "updatedBy": "c99e3cad76a318073f62f5e52eba18913d6f19ce15dc1f40dc12219fc8fbc083",
+  "updatedAt": "2026-02-02T08:58:09.357Z",
+  "signature": "U9a0k9g3Y8AuhUdv8jMN+Q+BltmKDNlV9WgFQE4r1pcM1F9JmLyV5uz2XkJCVo2FCYgXesBvhTvB9gltMcZgBQ=="
+}
