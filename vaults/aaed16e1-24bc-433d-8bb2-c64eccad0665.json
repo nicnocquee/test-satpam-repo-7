@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sequenceNumber": 1,
+  "vaultId": "aaed16e1-24bc-433d-8bb2-c64eccad0665",
+  "createdBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+  "createdAt": "2026-02-02T08:46:39.635Z",
+  "metadata": {
+    "nonce": "aYBkbwU/JYqQAy9z",
+    "ciphertext": "0UWTxHYESOJgmG3i8ORlFoOKoYwpQUueZiKuHGOWSvMpwFKqAdDRvFMurOLmGYk3mdMCaI90mCXGIrxdwhFwdSh5MFd8XKs+MUHE12Oxn1yNmHorcYBW1b5sVBlIrM85/lksxVh6Xmqj3ur97wdQdmXNPmiGy1TgtxuZHygtLqj0s7Gwjpzp72l+WBpb1U14sFYqz8NdWZHFdpzyYrIynjjyVX7zYAuEZVWr/YJpWKuhokQlBwYSs+w="
+  },
+  "members": {
+    "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7": {
+      "encryptedVaultKeys": {
+        "ephemeralPublicKey": "QZ05LtAQvMSNQms8j2PYIrtf4e0Xzw0OnWqyzTUISWw=",
+        "nonce": "aYBkb8zxsPfB51s4",
+        "ciphertext": "xTRmIEAQk5JFP2EAF3K1w2ApEeJb7Ys2b/PAK1fcyPjxWxUyQP2mFCx9djKiA6kS7f0KILr4fEHeA9Yb/fetGQH9nZBclp31owdGhDzfV+awETq9r0iU3bK171RfRO+slcFjEu1mxKsKySkt12//I94WSOv9pbSQlueAed2n2kqz3YhONi/KwAYuRthIjSbn"
+      },
+      "addedBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+      "addedAt": "2026-02-02T08:46:39.636Z",
+      "role": "owner"
+    }
+  }
+}
