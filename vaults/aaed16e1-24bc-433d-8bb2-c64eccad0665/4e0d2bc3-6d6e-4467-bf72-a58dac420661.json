@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "accountId": "4e0d2bc3-6d6e-4467-bf72-a58dac420661",
+  "vaultId": "aaed16e1-24bc-433d-8bb2-c64eccad0665",
+  "name": "gmail nico hyperjump",
+  "tags": [],
+  "encryptedData": {
+    "ephemeralPublicKey": "+zsC2vR+2tgr2TFBNxxlYhk4S4LX6jjcSfu0cOHELVg=",
+    "nonce": "aYBkjjXSMNJ3/iOV",
+    "ciphertext": "helc6yHsL8BPtkajvQn/wjVSeWadnuEDz6King8A7j1zkIblZ0zwB2DSxq5Dxy2RFo7jY5MYRvYE1gK0cqQ3UfjIHIrdVa1j8dIg29vX3sRd+mQiIH8iyF5vgUJ3"
+  },
+  "createdBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+  "createdAt": "2026-02-02T08:47:10.751Z",
+  "updatedBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+  "updatedAt": "2026-02-02T08:47:10.751Z",
+  "signature": "B+VEY/4SaHVsuXpQjhtkphKStQBQb13v+5q6IgltgTEu1wj3ClKPlDZtAxEB/I8bD1HqCfyUohEKueQZW+HgCQ=="
+}

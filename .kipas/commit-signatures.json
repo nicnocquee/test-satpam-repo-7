@@ -11,6 +11,12 @@
       "signature": "0jLTRRyf3UVeF3nsuhElBHD/61zd4IpQNrWnl7w8VEs3Q06dBJ9thmbnEbuPqQNCFYw8newM1UOlrtzmpbKmAQ==",
       "signedBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
       "signedAt": "2026-02-02T08:46:39.776Z"
+    },
+    {
+      "hash": "5c1576d19e3b8ea70e75ad9857724f022a60f87f",
+      "signature": "jkRCbH+X4wzflbPgc2rxclK+m0bkH7Qnz202NwhS1f8GJpML/XoEeVnjTzQCN8E9C+cL8VG9hudJ8/4al0DGBA==",
+      "signedBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+      "signedAt": "2026-02-02T08:47:10.884Z"
     }
   ]
 }
