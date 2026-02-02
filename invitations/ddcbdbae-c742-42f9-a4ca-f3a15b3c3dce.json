@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "invitationId": "ddcbdbae-c742-42f9-a4ca-f3a15b3c3dce",
+  "email": "denny@hyperjump.tech",
+  "emailHash": "c99e3cad76a318073f62f5e52eba18913d6f19ce15dc1f40dc12219fc8fbc083",
+  "allowedDomain": "hyperjump.tech",
+  "repositoryId": "c9154287-a25f-43a1-9067-ed3b646db461",
+  "encryptedREK": {
+    "nonce": "GEiwIpLwMwv1qC+k",
+    "ciphertext": "udadt2gjjlvuqH74IDxY2IWFD9xcI8dvhsVoWBZk7CM5Ije0OU7KtVatyeIM0Zsq"
+  },
+  "expiresAt": "2026-02-09T08:48:01.363Z",
+  "createdAt": "2026-02-02T08:48:01.377Z",
+  "createdBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+  "used": false
+}
