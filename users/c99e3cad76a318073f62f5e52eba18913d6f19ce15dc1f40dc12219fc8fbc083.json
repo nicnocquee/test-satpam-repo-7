@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sequenceNumber": 1,
+  "emailHash": "c99e3cad76a318073f62f5e52eba18913d6f19ce15dc1f40dc12219fc8fbc083",
+  "publicKeys": {
+    "ed25519": "F20DvkfE8PtSj3cY/Aza9/5XBQmy4RWGE3OZ4Wu6l6E=",
+    "x25519": "f0H8ELiCJ6Gdb0KfilPoEGi7xeqjV30X4Sx4RfwwH3U="
+  },
+  "encryptedData": {
+    "ephemeralPublicKey": "f2JvvgNk76cbqWUP3oSYhWPdt9u/MO4Y5XUfKAwUNWw=",
+    "nonce": "aYBmUCdjhyvryfSJ",
+    "ciphertext": "2dkd29jDNhwnIS2DTahsJ8nKdeFi4P6YZZgQ2H53WjnAi3YKg4Vm5QHy3YhoFuoFw7+g3ZIKsyfWRXotSvpTUFSA8CRvpuvV1mOyBpTuRHy2uhabvql1IJAEshfDuXnJbL7ra5O6WbB0VcDFS3WjrOZFhZTml6QkYZdcK5Ewh+4w6AWvTw=="
+  },
+  "verification": {
+    "method": "fingerprint-verified",
+    "verifiedBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+    "verifiedAt": "2026-02-02T08:54:40.533Z",
+    "fingerprint": "207738175727b793620761ebf44f0771f09f5e2f4be1354bfacc6e0bbd5edbea",
+    "packageTimestamp": "2026-02-02T08:53:17.750Z"
+  },
+  "addedBy": "b6b67ca2a201911011aa98b4b7691c3f6830c0275d17a5ce3113f9c5643d39f7",
+  "createdAt": "2026-02-02T08:54:40.534Z"
+}
